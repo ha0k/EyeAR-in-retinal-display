@@ -1,0 +1,18 @@
+# CMake generation dependency list for this directory.
+C:/Users/damien-r/Documents/EyeAR/src/sutil/CMakeLists.txt
+C:/Users/damien-r/Documents/EyeAR/src/CMake/FindROS.cmake
+C:/Users/damien-r/Documents/EyeAR/src/CMake/FindROSDEPS.cmake
+C:/opencv/opencv/build/OpenCVConfig-version.cmake
+C:/opencv/opencv/build/OpenCVConfig.cmake
+C:/opencv/opencv/build/x64/vc10/lib/OpenCVConfig.cmake
+C:/opencv/opencv/build/x64/vc10/lib/OpenCVModules.cmake
+C:/opencv/opencv/build/x64/vc10/lib/OpenCVModules-debug.cmake
+C:/opencv/opencv/build/x64/vc10/lib/OpenCVModules-release.cmake
+C:/Users/damien-r/Documents/EyeAR/src/CMake/FindCUDA/run_nvcc.cmake
+C:/Users/damien-r/Documents/EyeAR/src/sutil/CMakeFiles/cuda_compile_ptx.dir/__/cuda/cuda_compile_ptx_generated_obj_material.cu.ptx.depend
+C:/Users/damien-r/Documents/EyeAR/src/CMake/FindCUDA/run_nvcc.cmake
+C:/Users/damien-r/Documents/EyeAR/src/sutil/CMakeFiles/cuda_compile_ptx.dir/__/cuda/cuda_compile_ptx_generated_phong.cu.ptx.depend
+C:/Users/damien-r/Documents/EyeAR/src/CMake/FindCUDA/run_nvcc.cmake
+C:/Users/damien-r/Documents/EyeAR/src/sutil/CMakeFiles/cuda_compile_ptx.dir/__/cuda/cuda_compile_ptx_generated_triangle_mesh.cu.ptx.depend
+C:/Users/damien-r/Documents/EyeAR/src/CMake/FindCUDA/run_nvcc.cmake
+C:/Users/damien-r/Documents/EyeAR/src/sutil/CMakeFiles/cuda_compile_ptx.dir/__/cuda/cuda_compile_ptx_generated_triangle_mesh_small.cu.ptx.depend

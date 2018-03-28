@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="cook.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="radical_inverse_jitter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="distributed_phong.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="distributed_brdf.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="commonStructs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="helpers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="radical_inverse_jitter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="dof_camera.cu">
+      <Filter>CUDA Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="parallelogram.cu">
+      <Filter>CUDA Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="sphere.cu">
+      <Filter>CUDA Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="sphere_texcoord.cu">
+      <Filter>CUDA Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="clearcoat.cu">
+      <Filter>CUDA Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="constantbg.cu">
+      <Filter>CUDA Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="distributed_phong.cu">
+      <Filter>CUDA Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="distributed_brdf.cu">
+      <Filter>CUDA Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\lib\ptx\EyeAR_generated_dof_camera.cu.ptx">
+      <Filter>PTX Files</Filter>
+    </None>
+    <None Include="..\lib\ptx\EyeAR_generated_parallelogram.cu.ptx">
+      <Filter>PTX Files</Filter>
+    </None>
+    <None Include="..\lib\ptx\EyeAR_generated_sphere.cu.ptx">
+      <Filter>PTX Files</Filter>
+    </None>
+    <None Include="..\lib\ptx\EyeAR_generated_sphere_texcoord.cu.ptx">
+      <Filter>PTX Files</Filter>
+    </None>
+    <None Include="..\lib\ptx\EyeAR_generated_clearcoat.cu.ptx">
+      <Filter>PTX Files</Filter>
+    </None>
+    <None Include="..\lib\ptx\EyeAR_generated_constantbg.cu.ptx">
+      <Filter>PTX Files</Filter>
+    </None>
+    <None Include="..\lib\ptx\EyeAR_generated_distributed_phong.cu.ptx">
+      <Filter>PTX Files</Filter>
+    </None>
+    <None Include="..\lib\ptx\EyeAR_generated_distributed_brdf.cu.ptx">
+      <Filter>PTX Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{252DE775-7344-3875-A4BA-9DF4254847D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{5E660AF5-19B6-3256-AC98-9A654841EA84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PTX Files">
+      <UniqueIdentifier>{72772FA2-C50D-3177-B8A9-08FD17B3ED9C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CUDA Files">
+      <UniqueIdentifier>{B1669923-1718-31CC-B0E2-0BC3E4454363}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,34 @@
+EYEAR Standalone source code
+
+Author: Damien Rompapas
+
+System: Windows x64 (Latest working OS Windows 10, visual studio 2010)
+
+Installation instructi9ons:
+
+
+1) Install the following dependencies
+
+- Cuda 7.5 https://developer.nvidia.com/cuda-75-downloads-archive
+- OptiX 4.0 (located here: https://devtalk.nvidia.com/default/topic/952430/optix/optix-4-0-is-released-/) newer versions of Optix may work, but are untested and unsupported)
+- Boost 1.47 (included in the optional libraries file, or you can compile it)
+- GLUT  (packaged in the source code)
+- OpenGL (also packaged)
+- OpenCV 3.0+ (Compile using visual studio 2010 Release x64)
+
+2) download and extract the optional libraries package (located here: https://drive.google.com/open?id=0B3soLwp6ieeJX2ktS1FrWUdmZU0 )
+- extract to C: (path should look like c:\v2010
+
+3) use CMAKE gui to configure a build to visual studio 2010 x64, hit configure, then generate. You will receive errors that libraries are not detected 
+you can see the correct paths here: https://ibb.co/hATg6v
+At the very least, CUDA and OPTIX should have been successfully detected and added
+
+
+4) open the generated visual studio file in visual studio 2010, set the compile to release
+
+5) build the EyeAR project (it will compile all the other projects as they are dependencies
+(if the linker complains about missing linked files, edit the linker settings and remove the references)
+
+6) once built, navigate to the built binary directory, exctract the sample config files (SampleFiles.zip in the repository) to the built binary location
+
+7) You can now run the extracted bat file

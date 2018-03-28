@@ -1,0 +1,41 @@
+# CMake generation dependency list for this directory.
+C:/Users/damien-r/Documents/EyeAR/src/EyeAR/CMakeLists.txt
+C:/Users/damien-r/Documents/EyeAR/src/CMake/FindCUDA/run_nvcc.cmake
+C:/Users/damien-r/Documents/EyeAR/src/EyeAR/CMakeFiles/EyeAR.dir/EyeAR_generated_dof_camera.cu.ptx.depend
+C:/Users/damien-r/Documents/EyeAR/src/CMake/FindCUDA/run_nvcc.cmake
+C:/Users/damien-r/Documents/EyeAR/src/EyeAR/CMakeFiles/EyeAR.dir/EyeAR_generated_parallelogram.cu.ptx.depend
+C:/Users/damien-r/Documents/EyeAR/src/CMake/FindCUDA/run_nvcc.cmake
+C:/Users/damien-r/Documents/EyeAR/src/EyeAR/CMakeFiles/EyeAR.dir/EyeAR_generated_sphere.cu.ptx.depend
+C:/Users/damien-r/Documents/EyeAR/src/CMake/FindCUDA/run_nvcc.cmake
+C:/Users/damien-r/Documents/EyeAR/src/EyeAR/CMakeFiles/EyeAR.dir/EyeAR_generated_sphere_texcoord.cu.ptx.depend
+C:/Users/damien-r/Documents/EyeAR/src/CMake/FindCUDA/run_nvcc.cmake
+C:/Users/damien-r/Documents/EyeAR/src/EyeAR/CMakeFiles/EyeAR.dir/EyeAR_generated_clearcoat.cu.ptx.depend
+C:/Users/damien-r/Documents/EyeAR/src/CMake/FindCUDA/run_nvcc.cmake
+C:/Users/damien-r/Documents/EyeAR/src/EyeAR/CMakeFiles/EyeAR.dir/EyeAR_generated_constantbg.cu.ptx.depend
+C:/Users/damien-r/Documents/EyeAR/src/CMake/FindCUDA/run_nvcc.cmake
+C:/Users/damien-r/Documents/EyeAR/src/EyeAR/CMakeFiles/EyeAR.dir/EyeAR_generated_distributed_phong.cu.ptx.depend
+C:/Users/damien-r/Documents/EyeAR/src/CMake/FindCUDA/run_nvcc.cmake
+C:/Users/damien-r/Documents/EyeAR/src/EyeAR/CMakeFiles/EyeAR.dir/EyeAR_generated_distributed_brdf.cu.ptx.depend
+C:/opencv/opencv/build/OpenCVConfig-version.cmake
+C:/opencv/opencv/build/OpenCVConfig.cmake
+C:/opencv/opencv/build/x64/vc10/lib/OpenCVConfig.cmake
+C:/opencv/opencv/build/x64/vc10/lib/OpenCVModules.cmake
+C:/opencv/opencv/build/x64/vc10/lib/OpenCVModules-debug.cmake
+C:/opencv/opencv/build/x64/vc10/lib/OpenCVModules-release.cmake
+C:/Users/damien-r/Documents/EyeAR/src/CMake/FindROS.cmake
+C:/Users/damien-r/Documents/EyeAR/src/CMake/FindROSDEPS.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/FindBoost.cmake
+C:/v2010/opt/rosdeps/hydro/x64/share/cmake/boost/BoostConfigVersion.cmake
+C:/v2010/opt/rosdeps/hydro/x64/share/cmake/boost/BoostConfig.cmake
+C:/v2010/opt/rosdeps/hydro/x64/share/boost-1.47.0/cmake/BoostConfig.cmake
+C:/v2010/opt/rosdeps/hydro/x64/lib/Boost.cmake
+C:/v2010/opt/rosdeps/hydro/x64/lib/Boost-debug.cmake
+C:/Users/damien-r/Documents/EyeAR/src/CMake/FindROS.cmake
+C:/Users/damien-r/Documents/EyeAR/src/CMake/FindROSDEPS.cmake
+C:/opencv/opencv/build/OpenCVConfig-version.cmake
+C:/opencv/opencv/build/OpenCVConfig.cmake
+C:/opencv/opencv/build/x64/vc10/lib/OpenCVConfig.cmake
+C:/Users/damien-r/Documents/EyeAR/src/CMake/FindFlyCapture.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CMakeParseArguments.cmake

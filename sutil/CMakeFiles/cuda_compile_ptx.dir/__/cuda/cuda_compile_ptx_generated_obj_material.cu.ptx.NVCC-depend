@@ -1,0 +1,198 @@
+obj_material.obj : C:/Users/damien-r/Documents/EyeAR/src/cuda/obj_material.cu \
+    C:/Program\ Files/NVIDIA\ GPU\ Computing\ Toolkit/CUDA/v7.5/include/cuda_runtime.h \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/host_config.h \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/crtdefs.h \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/sal.h \
+    c:/program\ files\ (x86)/microsoft\ visual\ studio\ 10.0/vc/include/codeanalysis/sourceannotations.h \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/vadefs.h \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/builtin_types.h \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/device_types.h \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/host_defines.h \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/driver_types.h \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/limits.h \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/stddef.h \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/surface_types.h \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/texture_types.h \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/vector_types.h \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/channel_descriptor.h \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/cuda_runtime_api.h \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/cuda_device_runtime_api.h \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/driver_functions.h \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/vector_functions.h \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/vector_functions.hpp \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/common_functions.h \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/string.h \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/time.h \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/wtime.inl \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/time.inl \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/new \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/exception \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/xstddef \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/yvals.h \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/use_ansi.h \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/cstddef \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/eh.h \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/malloc.h \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/stdio.h \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/swprintf.inl \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/stdlib.h \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/assert.h \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/math_functions.h \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/math.h \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/cmath \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/cstdlib \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/math_functions.hpp \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/math_functions_dbl_ptx3.h \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/math_functions_dbl_ptx3.hpp \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/cuda_surface_types.h \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/cuda_texture_types.h \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/device_functions.h \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/device_functions.hpp \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/device_atomic_functions.h \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/device_atomic_functions.hpp \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/device_double_functions.h \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/device_double_functions.hpp \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/sm_20_atomic_functions.h \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/sm_20_atomic_functions.hpp \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/sm_32_atomic_functions.h \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/sm_32_atomic_functions.hpp \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/sm_35_atomic_functions.h \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/sm_20_intrinsics.h \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/sm_20_intrinsics.hpp \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/sm_30_intrinsics.h \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/sm_30_intrinsics.hpp \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/sm_32_intrinsics.h \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/sm_32_intrinsics.hpp \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/sm_35_intrinsics.h \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/surface_functions.h \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/surface_functions.hpp \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/texture_fetch_functions.h \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/texture_fetch_functions.hpp \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/texture_indirect_functions.h \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/texture_indirect_functions.hpp \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/surface_indirect_functions.h \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/surface_indirect_functions.hpp \
+    c:/program\ files/nvidia\ gpu\ computing\ toolkit/cuda/v7.5/include/device_launch_parameters.h \
+    C:/ProgramData/NVIDIA\ Corporation/OptiX\ SDK\ 3.9.0/include/optix.h \
+    c:/programdata/nvidia\ corporation/optix\ sdk\ 3.9.0/include/optix_device.h \
+    c:/programdata/nvidia\ corporation/optix\ sdk\ 3.9.0/include/internal/optix_datatypes.h \
+    C:/Program\ Files/NVIDIA\ GPU\ Computing\ Toolkit/CUDA/v7.5/include/host_defines.h \
+    c:/programdata/nvidia\ corporation/optix\ sdk\ 3.9.0/include/internal/../optixu/optixu_vector_types.h \
+    C:/Program\ Files/NVIDIA\ GPU\ Computing\ Toolkit/CUDA/v7.5/include/vector_types.h \
+    c:/programdata/nvidia\ corporation/optix\ sdk\ 3.9.0/include/internal/optix_declarations.h \
+    c:/programdata/nvidia\ corporation/optix\ sdk\ 3.9.0/include/internal/optix_declarations.h \
+    c:/programdata/nvidia\ corporation/optix\ sdk\ 3.9.0/include/internal/optix_internal.h \
+    c:/programdata/nvidia\ corporation/optix\ sdk\ 3.9.0/include/internal/optix_datatypes.h \
+    c:/programdata/nvidia\ corporation/optix\ sdk\ 3.9.0/include/internal/optix_defines.h \
+    c:/programdata/nvidia\ corporation/optix\ sdk\ 3.9.0/include/internal/../optix_sizet.h \
+    C:/ProgramData/NVIDIA\ Corporation/OptiX\ SDK\ 3.9.0/include/optixu/optixu_math_namespace.h \
+    c:/programdata/nvidia\ corporation/optix\ sdk\ 3.9.0/include/optixu/../optix.h \
+    c:/programdata/nvidia\ corporation/optix\ sdk\ 3.9.0/include/optixu/../internal/optix_datatypes.h \
+    c:/programdata/nvidia\ corporation/optix\ sdk\ 3.9.0/include/optixu/optixu_vector_functions.h \
+    c:/programdata/nvidia\ corporation/optix\ sdk\ 3.9.0/include/optixu/optixu_vector_types.h \
+    C:/Program\ Files/NVIDIA\ GPU\ Computing\ Toolkit/CUDA/v7.5/include/vector_functions.h \
+    c:/programdata/nvidia\ corporation/optix\ sdk\ 3.9.0/include/optixu/../optix_sizet.h \
+    c:/users/damien-r/documents/eyear/src/cuda/phong.h \
+    C:/ProgramData/NVIDIA\ Corporation/OptiX\ SDK\ 3.9.0/include/optix_world.h \
+    c:/programdata/nvidia\ corporation/optix\ sdk\ 3.9.0/include/optix_host.h \
+    C:/Program\ Files\ (x86)/Microsoft\ SDKs/Windows/v7.0A/include/windows.h \
+    C:/Program\ Files\ (x86)/Microsoft\ SDKs/Windows/v7.0A/include/sdkddkver.h \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/excpt.h \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/stdarg.h \
+    C:/Program\ Files\ (x86)/Microsoft\ SDKs/Windows/v7.0A/include/windef.h \
+    C:/Program\ Files\ (x86)/Microsoft\ SDKs/Windows/v7.0A/include/winnt.h \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/ctype.h \
+    C:/Program\ Files\ (x86)/Microsoft\ SDKs/Windows/v7.0A/include/specstrings.h \
+    c:/program\ files\ (x86)/microsoft\ sdks/windows/v7.0a/include/sal_supp.h \
+    c:/program\ files\ (x86)/microsoft\ sdks/windows/v7.0a/include/specstrings_supp.h \
+    C:/Program\ Files\ (x86)/Microsoft\ SDKs/Windows/v7.0A/include/specstrings_strict.h \
+    C:/Program\ Files\ (x86)/Microsoft\ SDKs/Windows/v7.0A/include/specstrings_undef.h \
+    C:/Program\ Files\ (x86)/Microsoft\ SDKs/Windows/v7.0A/include/driverspecs.h \
+    c:/program\ files\ (x86)/microsoft\ sdks/windows/v7.0a/include/sdv_driverspecs.h \
+    C:/Program\ Files\ (x86)/Microsoft\ SDKs/Windows/v7.0A/include/kernelspecs.h \
+    C:/Program\ Files\ (x86)/Microsoft\ SDKs/Windows/v7.0A/include/basetsd.h \
+    C:/Program\ Files\ (x86)/Microsoft\ SDKs/Windows/v7.0A/include/guiddef.h \
+    c:/program\ files\ (x86)/microsoft\ sdks/windows/v7.0a/include/pshpack4.h \
+    c:/program\ files\ (x86)/microsoft\ sdks/windows/v7.0a/include/poppack.h \
+    C:/Program\ Files\ (x86)/Microsoft\ SDKs/Windows/v7.0A/include/pshpack4.h \
+    C:/Program\ Files\ (x86)/Microsoft\ SDKs/Windows/v7.0A/include/poppack.h \
+    c:/program\ files\ (x86)/microsoft\ sdks/windows/v7.0a/include/pshpack2.h \
+    C:/Program\ Files\ (x86)/Microsoft\ SDKs/Windows/v7.0A/include/pshpack2.h \
+    c:/program\ files\ (x86)/microsoft\ sdks/windows/v7.0a/include/pshpack8.h \
+    C:/Program\ Files\ (x86)/Microsoft\ SDKs/Windows/v7.0A/include/ktmtypes.h \
+    C:/Program\ Files\ (x86)/Microsoft\ SDKs/Windows/v7.0A/include/winbase.h \
+    C:/Program\ Files\ (x86)/Microsoft\ SDKs/Windows/v7.0A/include/winerror.h \
+    C:/Program\ Files\ (x86)/Microsoft\ SDKs/Windows/v7.0A/include/wingdi.h \
+    C:/Program\ Files\ (x86)/Microsoft\ SDKs/Windows/v7.0A/include/pshpack1.h \
+    C:/Program\ Files\ (x86)/Microsoft\ SDKs/Windows/v7.0A/include/winuser.h \
+    C:/Program\ Files\ (x86)/Microsoft\ SDKs/Windows/v7.0A/include/tvout.h \
+    C:/Program\ Files\ (x86)/Microsoft\ SDKs/Windows/v7.0A/include/winnls.h \
+    C:/Program\ Files\ (x86)/Microsoft\ SDKs/Windows/v7.0A/include/wincon.h \
+    C:/Program\ Files\ (x86)/Microsoft\ SDKs/Windows/v7.0A/include/winver.h \
+    C:/Program\ Files\ (x86)/Microsoft\ SDKs/Windows/v7.0A/include/verrsrc.h \
+    C:/Program\ Files\ (x86)/Microsoft\ SDKs/Windows/v7.0A/include/winreg.h \
+    C:/Program\ Files\ (x86)/Microsoft\ SDKs/Windows/v7.0A/include/reason.h \
+    C:/Program\ Files\ (x86)/Microsoft\ SDKs/Windows/v7.0A/include/winnetwk.h \
+    C:/Program\ Files\ (x86)/Microsoft\ SDKs/Windows/v7.0A/include/wnnc.h \
+    C:/Program\ Files\ (x86)/Microsoft\ SDKs/Windows/v7.0A/include/stralign.h \
+    C:/Program\ Files\ (x86)/Microsoft\ SDKs/Windows/v7.0A/include/winsvc.h \
+    C:/Program\ Files\ (x86)/Microsoft\ SDKs/Windows/v7.0A/include/mcx.h \
+    C:/Program\ Files\ (x86)/Microsoft\ SDKs/Windows/v7.0A/include/imm.h \
+    C:/Program\ Files\ (x86)/Microsoft\ SDKs/Windows/v7.0A/include/ime_cmodes.h \
+    c:/programdata/nvidia\ corporation/optix\ sdk\ 3.9.0/include/optix_d3d9_interop.h \
+    c:/programdata/nvidia\ corporation/optix\ sdk\ 3.9.0/include/optix.h \
+    c:/programdata/nvidia\ corporation/optix\ sdk\ 3.9.0/include/optix_d3d10_interop.h \
+    c:/programdata/nvidia\ corporation/optix\ sdk\ 3.9.0/include/optix_d3d11_interop.h \
+    c:/programdata/nvidia\ corporation/optix\ sdk\ 3.9.0/include/optix_gl_interop.h \
+    c:/programdata/nvidia\ corporation/optix\ sdk\ 3.9.0/include/optixu/optixu.h \
+    c:/programdata/nvidia\ corporation/optix\ sdk\ 3.9.0/include/optixu/optixu_traversal.h \
+    c:/programdata/nvidia\ corporation/optix\ sdk\ 3.9.0/include/optixu/optixu_vector_types.h \
+    c:/programdata/nvidia\ corporation/optix\ sdk\ 3.9.0/include/optixu/optixu_vector_functions.h \
+    c:/programdata/nvidia\ corporation/optix\ sdk\ 3.9.0/include/optixu/optixu_math_namespace.h \
+    c:/programdata/nvidia\ corporation/optix\ sdk\ 3.9.0/include/optixu/optixu_aabb_namespace.h \
+    c:/programdata/nvidia\ corporation/optix\ sdk\ 3.9.0/include/optixu/optixu_math_namespace.h \
+    c:/programdata/nvidia\ corporation/optix\ sdk\ 3.9.0/include/optixu/optixu_matrix_namespace.h \
+    c:/programdata/nvidia\ corporation/optix\ sdk\ 3.9.0/include/optixu/optixu_math_stream_namespace.h \
+    c:/programdata/nvidia\ corporation/optix\ sdk\ 3.9.0/include/optixu/optixu_matrix_namespace.h \
+    c:/programdata/nvidia\ corporation/optix\ sdk\ 3.9.0/include/optixu/optixu_aabb_namespace.h \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/iostream \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/istream \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/ostream \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/ios \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/xlocnum \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/climits \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/cstdio \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/streambuf \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/xiosbase \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/xlocale \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/cstring \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/stdexcept \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/xstring \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/xmemory \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/xutility \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/utility \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/iosfwd \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/cwchar \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/wchar.h \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/crtdbg.h \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/type_traits \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/limits \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/ymath.h \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/cfloat \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/float.h \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/crtwrn.h \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/xtr1common \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/xfwrap \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/xfwrap1 \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/typeinfo \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/xlocinfo \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/xlocinfo.h \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/locale.h \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/xdebug \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/system_error \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/cerrno \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/errno.h \
+    C:/Program\ Files\ (x86)/Microsoft\ Visual\ Studio\ 10.0/VC/bin/../../VC/INCLUDE/share.h \
+    c:/users/damien-r/documents/eyear/src/cuda/commonStructs.h \
+    C:/ProgramData/NVIDIA\ Corporation/OptiX\ SDK\ 3.9.0/include/optixu/optixu_vector_types.h \
+    c:/users/damien-r/documents/eyear/src/cuda/helpers.h
